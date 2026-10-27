@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Yunpian is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.yunpian.com/
+Yunpian (杭州云片网络科技有限公司) provides cloud communication services, offering SMS, voice, and WhatsApp messaging APIs for developers worldwide. Their platform supports domestic and international SMS, super SMS with multimedia, 5G smart messaging, and enterprise solutions like YCloud. They emphasize security with certifications such as ISO27001 and CMMI3, and provide extensive SDKs, documentation, and support for rapid integration.
+
+**Areas:** Company · SMS · Cloud Communications · API Platform · China
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.yunpian.com/)
+- [Documentation](https://www.yunpian.com/dev-doc)
+- [Pricing](https://www.yunpian.com/price)
+- [Blog](https://www.yunpian.com/blog)
+- [GitHub](https://github.com/yunpian)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/yunpian/](https://apis.io/providers/yunpian/).
